@@ -1,0 +1,38 @@
+{
+  "Mumbai-Indians" : {
+      "1" :  {"name" : "Anmolpreet Singh"},
+      "2" :  {"name" : "Rohit Sharma"},
+      "3" :  {"name" : "Suryakumar Yadav"},
+      "4" :  {"name" : "Chris Lynn"},
+      "5" :  {"name" : "Saurabh Tiwary"},
+      "6" :  {"name" : "Anukul Roy"},
+      "7" :  {"name" : "Jayant Yadav"},
+      "8" :  {"name" : "Krunal Pandya"},
+      "9" :  {"name" : "Hardik Pandya"},
+      "10" : {"name" : "Kieron Pollard"},
+      "11" : {"name" : "Sherfane Rutherford"},
+      "12" : {"name" : "Prince Balwant Rai Singh"},
+      "13" : {"name" : "Quinton de Kock"},
+      "14" : {"name" : "Aditya Tare"},
+      "15" : {"name" : "Ishan Kishan"},
+      "16" : {"name" : "Rahul Chahar"},
+      "17" : {"name" : "Mitchell McClenaghan"},
+      "18" : {"name" : "Jasprit Bumrah"},
+      "19" : {"name" : "Lasith Malinga"},
+      "20" : {"name" : "Trent Boult"},
+      "21" : {"name" : "Dhawal Kulkarni"},
+      "22" : {"name" : "Nathan Coulter-Nile"},
+      "23" : {"name" : "Mohsin Khan"},
+      "24" : {"name" : "Digvijay Deshmukh"}
+    }
+    ,
+    "CSK":{
+      "1" : {"name" : "arjun"},
+      "2" : {"name" : "arya"}
+    }
+
+}
+
+
+
+
